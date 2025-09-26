@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I am Mohammad Yahiya, a dedicated ML Engineer at Accion Labs and a versatile freelance Machine Learning Engineer with a passion for leveraging technology to drive innovation. Hailing from India, I bring a wealth of experience and expertise to the realm of data science, fortified by my current roles and previous engagements.
+I am an AI Engineer specializing in Agentic AI applications, Generative AI, and cloud-native ML solutions. I enjoy building systems that combine intelligent interaction, scalability, and real-world impact.
 
-In my capacity as a ML Engineer at Accion Labs, I contribute to the development of robust data architectures and business intelligence solutions. My proficiency extends to various facets of data science, including Business Analytics, Machine Learning, Deep Learning, and Artificial Intelligence. Through my dynamic role at Omdena as a freelance Machine Learning Engineer, I actively engage in collaborative projects that tackle real-world challenges, further honing my skills and expanding my knowledge base.
+Over the past few years, I have:
 
-My journey in the field of education technology includes a significant tenure as a Beta Tester at Coursera, where I had the privilege of supporting instructors in AI courses. This experience not only enhanced my understanding of cutting-edge technologies but also allowed me to contribute to the improvement of educational content.
+Designed Agentic AI workflows with LangGraph and LangChain for financial planning assistants.
+Built RAG-based chatbots for contextual, conversational AI.
+Developed speech and audio pipelines for voice-enabled applications.
+Implemented real-time data pipelines and ML deployments on AWS (Lambda, S3, DynamoDB, QuickSight).
+Worked with LLMs, Hugging Face, and CrewAI to optimize domain-specific models and multi-agent collaboration.
 
-I am committed to continuous learning and professional development, regularly taking on new challenges and staying abreast of the latest advancements in the field. My academic background, combined with practical experience, equips me with a comprehensive skill set that spans Data Architecture, BI, and the broader landscape of data science.
-
-As a proactive and adaptable professional, I am enthusiastic about contributing to the evolution of data-driven solutions and staying at the forefront of technological advancements in the ever-evolving field of data science.
-
+Currently, I’m exploring Reinforcement Learning in healthcare and pursuing deep research in AI and Artificial Superintelligence (ASI). 
+My vision is to create human-aligned, scalable AI systems that push the boundaries of intelligent automation.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadyahiya)](https://github.com/anuraghazra/github-readme-stats)
